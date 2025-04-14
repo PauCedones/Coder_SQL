@@ -61,6 +61,6 @@ A continuación, se describe la estructura base de la base de datos en términos
 
 A continuación se muestra el diagrama que representa la estructura de la base de datos del proyecto:
 
-![Diagrama DER](./documentacion/diagrama.svg)
+![Diagrama DER](./diagrama.svg)
 
 
