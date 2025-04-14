@@ -57,4 +57,10 @@ A continuación, se describe la estructura base de la base de datos en términos
 - Un **hábito** puede estar definido por **muchos usuarios** → Relación N:M a través de `Usuario_Habito`.
 - Un **usuario_habito** tiene **muchos registros diarios** → Relación 1:N.
 
+### 📊 Diagrama Entidad-Relación (DER)
+
+A continuación se muestra el diagrama que representa la estructura de la base de datos del proyecto:
+
+![Diagrama DER](./documentacion/diagrama.svg)
+
 
