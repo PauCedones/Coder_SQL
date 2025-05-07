@@ -1,21 +1,30 @@
-# Trabajo Practico 2
-Alumna: Paula Cedones
-Comision: 75960
+# Trabajo Practico 2 – Seguimiento de Hábitos Saludables
+Alumna: Paula Cedones | Comisión: 75960
 
 ---
 
 ## Índice
 
+1. [Informacion](#informacion)
 1. [Vistas](#vistas)
 2. [Funciones](#funciones)
 3. [Stored Procedures](#stored-procedures)
 4. [Triggers](#triggers)
 
 ---
+##Informacion
 
+### Trabajo Practico 01
+🔗 Documentacion: [documentacion.mdl](./TP_01/documentacion.md)
+
+###Datos iniciales
+
+🔗 Archivo SQL: [datos_iniciales.sql](./dato_iniciales.sql)
+
+---
 ## Vistas
 
-🔗 Archivo SQL: [vistas.sql](./TP_02/vistas.sql)
+🔗 Archivo SQL: [vistas.sql](./vistas.sql)
 
 ### 1. vista_progreso_diario
 
@@ -81,7 +90,7 @@ Ofrecer una herramienta rápida para analizar la evolución más reciente del us
 
 ## Funciones
 
-🔗 Archivo SQL: [funciones.sql](./TP_02/funciones.sql)
+🔗 Archivo SQL: [funciones.sql](./funciones.sql)
 
 ### 1. calcular_porcentaje_cumplimiento
 
@@ -162,7 +171,7 @@ Mantener la base de datos limpia al eliminar un usuario que ya no utilizará el 
 
 ## Triggers
 
-🔗 Archivo SQL: [triggers.sql](./TP_02/triggers.sql)
+🔗 Archivo SQL: [triggers.sql](./triggers.sql)
 
 ### 1. trg_insert_registro_validacion
 **Descripción:**  
