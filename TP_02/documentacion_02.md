@@ -12,14 +12,14 @@ Alumna: Paula Cedones | Comisión: 75960
 4. [Triggers](#triggers)
 
 ---
-##Informacion
+## Informacion
 
 ### Trabajo Practico 01
-🔗 Documentacion: [documentacion.mdl](./TP_01/documentacion.md)
+🔗 Documentacion: [documentacion.mdl](../TP_01/documentacion.md)
 
-###Datos iniciales
+### Datos iniciales
 
-🔗 Archivo SQL: [datos_iniciales.sql](./dato_iniciales.sql)
+🔗 Archivo SQL: [datos_iniciales.sql](../TP_01/datos_iniciales.sql)
 
 ---
 ## Vistas
