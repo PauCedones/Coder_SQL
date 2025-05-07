@@ -32,6 +32,7 @@ END;
 
 -- Función 2: obtener_promedio_habito_mensual
 -- Devuelve el promedio diario registrado por un usuario en un hábito para un mes y año específicos.
+DELIMITER //
 CREATE FUNCTION obtener_promedio_habito_mensual(id_usuario_habito INT, anio INT, mes INT)
 RETURNS DECIMAL(10,2)
 DETERMINISTIC
@@ -51,6 +52,7 @@ END;
 
 -- Función 3: dias_con_cumplimiento_total
 -- Cuenta cuántos días un usuario cumplió o superó su meta diaria para un hábito específico.
+DELIMITER //
 CREATE FUNCTION dias_con_cumplimiento_total(id_usuario_habito INT)
 RETURNS INT
 DETERMINISTIC
