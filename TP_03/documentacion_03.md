@@ -293,7 +293,7 @@ Antes de eliminar un usuario (`BEFORE DELETE`).
 ---
 
 ## Informes 
-
+🔗 Graficos: [informe_habitos.xlsx](./informe_habitos.xlsx)
 
 ### 1. Cumplimiento Diario de Metas
 
