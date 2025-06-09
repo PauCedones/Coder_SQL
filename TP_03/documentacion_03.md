@@ -197,7 +197,7 @@ Ofrecer una herramienta rápida para analizar la evolución más reciente del us
 
 ## Stored Procedures
 
-🔗 Archivo SQL: [stored_procedures.sql](../TP_02/stored_procedures.sql)
+🔗 Archivo SQL: [stores_procedures.sql](../TP_02/stores_procedures.sql)
 
 ### 1. insertar_usuario_con_habito
 
